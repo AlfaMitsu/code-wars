@@ -1,4 +1,4 @@
-###Thinkful - Logic Drills: Traffic light
+###Thinkful - Logic Drills: Traffic light###
 
     String updateLight(String current) {
       switch (current) {
